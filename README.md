@@ -1,2 +1,2 @@
 # backtester
-turns singals into portfolio PnL over time
+turns signals into portfolio PnL over time
